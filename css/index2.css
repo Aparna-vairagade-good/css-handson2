@@ -1,0 +1,126 @@
+
+
+.div1{
+    font-style: italic;
+    font-size: 150%;
+     width: 400px;
+    border-radius: 35px;
+    border-color: red;
+    border-width: 5px;
+    background-color: black;
+    color: white;
+    -moz-box-align: center;
+    box-sizing: border-box;
+    height: 50px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-style: solid;
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    background-color: aqua;
+    color: blue;
+    border-radius: 25px;
+    font-size: 150%;
+    text-align: center;
+    display: inline-table;
+    column-gap: 30px;
+    margin: 40px;
+    box-sizing: border-box;
+    border-style: none;
+}
+.div3{
+    height: 800px;
+    width: 550px;
+    background-color: white;
+    color: red;
+    border-color: red;
+    text-align: center;
+    border-style: dashed;
+    margin-left: 600px;
+    font-size: 150%;
+    border-width: 10px;
+    margin-top: 20px;
+}
+.div4{
+    margin-top: 25px;
+    width: 350px;
+    height: 350px;
+    background: lightseagreen;
+    border: 5px solid gray;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 25px;
+    position: absolute;
+    top: 200px;
+    left: 25px;
+    font-size: 100%;
+}
+.text1{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0,83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+
+}
+.div5{
+    color: aliceblue;
+    display: inline-block;
+    background-color: black;
+    margin-top: 25px;
+    margin-right: 20px;
+    width: 300px;
+    font-style: italic;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 40px;
+    padding: 5px,15px;
+}
+body{
+    background-image: url(https://images.prxrls.com/photos/53594/blue-clouds-day-fluffy-53594.jpeg?cs=srgb&d1=pexels-pixabay-53594.jpg&fm=jpg);
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 15px;
+
+}
+
+.div6{
+    color: aliceblue;
+    display: inline-block;
+    background-color: black;
+    width: 250px;
+    margin-top: 30px;
+    position: absolute;
+    top: 10px;
+    right: 55px;
+    font-style: italic;
+    border-width: 5px;
+    border-style: solid;
+    border-image: initial;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: red;
+
+}
+.div7{
+    color: aliceblue;
+    display: inline;
+    background-color: black;
+    margin-top: 15px;
+    position: absolute;
+    top: 25px;
+    left: 220px;
+    font-style: italic;
+    border-width: 5px;
+    border-style: solid;
+    border-color: red;
+    border-image: initial;
+    padding: 5px;
+    border-radius: 40px;
+}
